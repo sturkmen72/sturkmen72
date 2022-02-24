@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![stats](https://github-readme-stats.vercel.app/api?username=sturkmen72&show_icons=true)
+
+![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sturkmen72)
+
+![GitHub metrics](https://metrics.lecoq.io/sturkmen72)
 <!--
 **sturkmen72/sturkmen72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
