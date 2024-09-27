@@ -4,7 +4,7 @@
 
 ![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sturkmen72)
 
-![GitHub metrics](https://metrics.lecoq.io/sturkmen72)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sturkmen72&layout=compact&theme=buefy&hide_border=true" />
 <!--
 **sturkmen72/sturkmen72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
